@@ -51,7 +51,7 @@ The following tables were created to represent various aspects of an e-commerce 
 
 ## 📂 Repository Contents
 
-- `ecommerce.sql`: Full SQL script to create and populate the database
+- `Ecommerce.sql`: Full SQL script to create and populate the database
 - `ERD.png`: The ERD diagram for the database structure
 - `README.md`: Project overview and documentation
 
@@ -64,17 +64,21 @@ This project was done collaboratively under the PLP platform:
 - Shared work using GitHub for version control
 - Everyone contributed to analysis, design, and SQL scripting
   
-Group Members
-abdulakeem	olatubosun	       abdulakeemolatubosun@gmail.com	
-patrick	mukuha	                githinjipatrick444@gmail.com	
-millicent	anyango	              millicentanyango999@gmail.com	
-samuel	musyoka	                samuelmmy071@gmail.com	
-nontokozo	mabobe	              nontokozosweetness18@gmail.com	
-babette	aketch	                akechbabette44@gmail.com	
-brenda	riziki	                rizikibrenda4@gmail.com	
-anyangu mukhutsi	              majimbo	majimboanyangu50@gmail.com	
-kiplimo	dennis	                ruttodennis002@gmail.com	
-james	ng'ang'a                  wamweajames1@gmail.com
+## 👥 Group Members
+
+| First Name   | Last Name     | Email Address                         |
+|--------------|---------------|---------------------------------------|
+| Abdulakeem   | Olatubosun    | abdulakeemolatubosun@gmail.com       |
+| Patrick      | Mukuha        | githinjipatrick444@gmail.com         |
+| Millicent    | Anyango       | millicentanyango999@gmail.com        |
+| Samuel       | Musyoka       | samuelmmy071@gmail.com               |
+| Nontokozo    | Mabobe        | nontokozosweetness18@gmail.com       |
+| Babette      | Aketch        | akechbabette44@gmail.com             |
+| Brenda       | Riziki        | rizikibrenda4@gmail.com              |
+| Anyangu      | Mukhutsi Majimbo | majimboanyangu50@gmail.com       |
+| Kiplimo      | Dennis        | ruttodennis002@gmail.com             |
+| James        | Ng'ang'a      | wamweajames1@gmail.com               |
+
 ---
 
 ## 📌 How to Use This Project
@@ -87,8 +91,8 @@ Open and run ecommerce.sql using MySQL Workbench or any MySQL-compatible client 
 
 Use the ERD diagram to understand the relationships and structure.
 
-🔗 License
+##🔗 License
 This project is part of the Power Learn Project peer group assignment and is intended for educational purposes only.
 
-🙌 Special Thanks
+##🙌 Special Thanks
 Thanks to the PLP team, mentors, and fellow group members for the guidance and teamwork that made this project possible!
